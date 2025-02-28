@@ -9,3 +9,23 @@
     "96": "icon/96.png",
     "128": "icon/128.png"
 },
+"permissions": [
+        "sidePanel",
+        "contextMenus",
+        "storage",
+        "scripting"
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "pyodide/*",
+                "public/*"
+            ],
+            "matches": [
+                "<all_urls>"
+            ]
+        }
+    ],
