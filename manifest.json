@@ -1,0 +1,11 @@
+"manifest_version": 3,
+"name": "Python Notebook",
+"description": "Online Python compiler. Run Python scripts and code from any website with GPU for complex coding",
+"version": "0.6.9",
+"icons": {
+    "16": "icon/16.png",
+    "32": "icon/32.png",
+    "48": "icon/48.png",
+    "96": "icon/96.png",
+    "128": "icon/128.png"
+},
